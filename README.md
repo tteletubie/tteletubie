@@ -4,7 +4,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Hi, I'm Lesly 👻</h3>
+<h1 data-importer="text" align="left">Hi, I'm Lesly 👻</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 data-importer="text"align="left">Languages and Tools I use:</h5>
+<h3 data-importer="text"align="left">Languages and Tools I use:</h3>
 <hr style="border: none; height: 1px; background-color: #a4a4a4; width: 60%; position:absolute; top: 380px;"> <br>
 
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h5 data-importer="text"align="left">Usually coding with music on 𑣲</h5>
+<h3 data-importer="text"align="left">Usually coding with music on 𑣲</h3>
 
 <div align="left"> 
     <a href="https://open.spotify.com/user/leslyRT"> <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31l6nfazwj7fcpwlx5vjkbmun36q" alt="Spotify recently played" /> </a> 
